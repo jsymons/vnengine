@@ -1,0 +1,22 @@
+<data>
+  <color name="red">
+    <base>ff0000</base>
+    <highlight>ff5555</highlight>
+  </color>
+  <color name="green">
+    <base>00ff00</base>
+	<highlight>55ff55</highlight>
+  </color>
+  <color name="blue">
+    <base>0000ff</base>
+    <highlight>5555ff</highlight>
+  </color>
+  <color name="black">
+    <base>000000</base>
+    <highlight>888888</highlight>
+  </color>
+  <color name="white">
+    <base>cccccc</base>
+    <highlight>ffffff</highlight>
+  </color>
+</data>

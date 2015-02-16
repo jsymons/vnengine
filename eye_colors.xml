@@ -1,0 +1,18 @@
+<data>
+  <color name="blue">
+    <base>0000ff</base>
+	<shade>000066</shade>
+  </color>
+  <color name="red">
+    <base>ff0000</base>
+    <shade>660000</shade>
+  </color>
+  <color name="green">
+    <base>00ff00</base>
+    <shade>006600</shade>
+  </color>
+  <color name="black">
+    <base>555555</base>
+    <shade>000000</shade>
+  </color>
+</data>
