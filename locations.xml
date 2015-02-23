@@ -1,0 +1,19 @@
+<data>
+  <location name="Arcade">
+    <days_of_week>1111111</days_of_week>
+	<time_of_day>0111</time_of_day>
+  </location>
+  <location name="Home">
+    <days_of_week>1111111</days_of_week>
+	<time_of_day>1111</time_of_day>
+  </location>
+  <location name="Cafe">
+    <days_of_week>1111111</days_of_week>
+	<time_of_day>1110</time_of_day>
+  </location>
+  <location name="School">
+    <days_of_week>1111100</days_of_week>
+	<time_of_day>1100</time_of_day>
+	<default_event>school_day</default_event>
+  </location>
+</data>

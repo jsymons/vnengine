@@ -1,0 +1,20 @@
+<data>
+  <event name="Sleep In">
+    <days_of_week>1111111</days_of_week>
+	<time_of_day>1000</time_of_day>
+	<location>Home</location>
+	<filename>sleep_in</filename>
+  </event>
+  <event name="Video Games">
+    <days_of_week>1111111</days_of_week>
+	<time_of_day>0110</time_of_day>
+	<location>Home</location>
+    <filename>video_games</filename>
+  </event>
+  <event name="Sleep Early">
+    <days_of_week>1111111</days_of_week>
+	<time_of_day>0001</time_of_day>
+	<location>Home</location>
+	<filename>sleep_early</filename>
+  </event>
+</data>
